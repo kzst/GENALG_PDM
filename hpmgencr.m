@@ -156,10 +156,10 @@ Z=numel(PEM(PEM>0&PEM<1));
 
 if Z>0
     LB=[zeros(1,Z),reshape(min(TD,[],2),1,[]),EST'];      %Lower Bound
-    UB=[ones(1,Z),reshape(max(TD,[],2),1,[]),LST']        %Upper Bound
+    UB=[ones(1,Z),reshape(max(TD,[],2),1,[]),LST'];        %Upper Bound
 else
     LB=[reshape(min(TD,[],2),1,[]),EST'];      %Lower Bound
-    UB=[reshape(max(TD,[],2),1,[]),LST']        %Upper Bound
+    UB=[reshape(max(TD,[],2),1,[]),LST'];      %Upper Bound
 
 end
 %---End of setting GA---
