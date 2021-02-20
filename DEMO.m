@@ -3,7 +3,21 @@
 %Faculty of Economics, Department of Quantitative Methods
 %----------------
 %Demonstration program for flexible project management
-%Please cite as our works as:
+%Please cite our works, when this add-on is used:
+
+% Kosztyan, Z. T. (2015). Exact algorithm for matrix-based project planning
+% problems. Expert Systems with Applications, 42(9), 4460-4473.
+
+% Kosztyan, Z. T., & Szalkai, I. (2018). Hybrid time-quality-cost trade-off
+% problems. Operations Research Perspectives, 5, 306-318.
+
+% Kosztyan, Z. T., & Szalkai, I. (2020). Multimode resource-constrained
+% project scheduling in flexible projects. Journal of Global Optimization, 
+% 76(1), 211-241.
+
+% Kosztyan, Z. T., Jakab, R., Novak, G., & Hegedus, C. (2020). Survive IT! 
+% Survival analysis of IT project planning approaches. Operations Research 
+% Perspectives, 7, 100170.
 
 %% Initialisation
 
